@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=CirclePane
+comment0.text=\n\ This\ class\ represents\ a\ circular\ StackPane\ object\ that\ can\ be\ clicked\n\ @author\ Jannah\ Mansoor\n\ @version\ 1.0\n
+comment1.params=color\ dist
+comment1.target=CirclePane(javafx.scene.paint.Color,\ int)
+comment2.params=
+comment2.target=void\ remove()
+numComments=3
